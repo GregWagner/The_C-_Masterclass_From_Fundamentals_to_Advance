@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/mnt/c/Users/theGr/Projects/The_Cplusplus_Masterclass_From_Fundamentals_to_Advance/build",
+  "command": "/usr/bin/g++ -g -std=c++20 -o Section_03_Environment_Setup/CMakeFiles/main.dir/main.cpp.o -c /mnt/c/Users/theGr/Projects/The_Cplusplus_Masterclass_From_Fundamentals_to_Advance/Section_03_Environment_Setup/main.cpp",
+  "file": "/mnt/c/Users/theGr/Projects/The_Cplusplus_Masterclass_From_Fundamentals_to_Advance/Section_03_Environment_Setup/main.cpp"
+},
+{
+  "directory": "/mnt/c/Users/theGr/Projects/The_Cplusplus_Masterclass_From_Fundamentals_to_Advance/build",
+  "command": "/usr/bin/g++ -g -std=c++20 -o Section_07_Diving_In/CMakeFiles/FirstCppProgram.dir/FirstCppProgram.cpp.o -c /mnt/c/Users/theGr/Projects/The_Cplusplus_Masterclass_From_Fundamentals_to_Advance/Section_07_Diving_In/FirstCppProgram.cpp",
+  "file": "/mnt/c/Users/theGr/Projects/The_Cplusplus_Masterclass_From_Fundamentals_to_Advance/Section_07_Diving_In/FirstCppProgram.cpp"
+}
+]

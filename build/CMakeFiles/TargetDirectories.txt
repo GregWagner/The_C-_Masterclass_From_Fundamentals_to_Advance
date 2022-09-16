@@ -1,0 +1,8 @@
+/mnt/c/Users/theGr/Projects/The_Cplusplus_Masterclass_From_Fundamentals_to_Advance/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/theGr/Projects/The_Cplusplus_Masterclass_From_Fundamentals_to_Advance/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/theGr/Projects/The_Cplusplus_Masterclass_From_Fundamentals_to_Advance/build/Section_03_Environment_Setup/CMakeFiles/main.dir
+/mnt/c/Users/theGr/Projects/The_Cplusplus_Masterclass_From_Fundamentals_to_Advance/build/Section_03_Environment_Setup/CMakeFiles/edit_cache.dir
+/mnt/c/Users/theGr/Projects/The_Cplusplus_Masterclass_From_Fundamentals_to_Advance/build/Section_03_Environment_Setup/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/theGr/Projects/The_Cplusplus_Masterclass_From_Fundamentals_to_Advance/build/Section_07_Diving_In/CMakeFiles/FirstCppProgram.dir
+/mnt/c/Users/theGr/Projects/The_Cplusplus_Masterclass_From_Fundamentals_to_Advance/build/Section_07_Diving_In/CMakeFiles/edit_cache.dir
+/mnt/c/Users/theGr/Projects/The_Cplusplus_Masterclass_From_Fundamentals_to_Advance/build/Section_07_Diving_In/CMakeFiles/rebuild_cache.dir

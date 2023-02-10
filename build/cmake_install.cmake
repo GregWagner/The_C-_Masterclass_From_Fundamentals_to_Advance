@@ -44,12 +44,12 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/mnt/c/Users/theGr/Projects/The_Cplusplus_Masterclass_From_Fundamentals_to_Advance/build/Section_03_Environment_Setup/cmake_install.cmake")
+  include("/mnt/c/Users/theGr/Projects/The_Cplusplus_Masterclass_From_Fundamentals_to_Advance/build/Assignments/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/mnt/c/Users/theGr/Projects/The_Cplusplus_Masterclass_From_Fundamentals_to_Advance/build/Section_07_Diving_In/cmake_install.cmake")
+  include("/mnt/c/Users/theGr/Projects/The_Cplusplus_Masterclass_From_Fundamentals_to_Advance/build/Section_03_Environment_Setup/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)

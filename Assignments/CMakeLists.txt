@@ -1,0 +1,12 @@
+add_executable(assign_1 01.cpp)
+add_executable(assign_2 02.cpp)
+add_executable(assign_3 03.cpp)
+add_executable(assign_4 04.cpp)
+add_executable(assign_5 05.cpp)
+add_executable(assign_6 06.cpp)
+add_executable(assign_7 07.cpp)
+add_executable(assign_8 08.cpp)
+add_executable(assign_9 09.cpp)
+add_executable(assign_10 10.cpp)
+add_executable(delete delete.cpp)
+

@@ -69,6 +69,408 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 
 # =============================================================================
+# Object build statements for EXECUTABLE target assign_1
+
+
+#############################################
+# Order-only phony target for assign_1
+
+build cmake_object_order_depends_target_assign_1: phony || Assignments/CMakeFiles/assign_1.dir
+
+build Assignments/CMakeFiles/assign_1.dir/01.cpp.o: CXX_COMPILER__assign_1_Debug /mnt/c/Users/theGr/Projects/The_Cplusplus_Masterclass_From_Fundamentals_to_Advance/Assignments/01.cpp || cmake_object_order_depends_target_assign_1
+  DEP_FILE = Assignments/CMakeFiles/assign_1.dir/01.cpp.o.d
+  FLAGS = -g -std=c++20
+  OBJECT_DIR = Assignments/CMakeFiles/assign_1.dir
+  OBJECT_FILE_DIR = Assignments/CMakeFiles/assign_1.dir
+  TARGET_COMPILE_PDB = Assignments/CMakeFiles/assign_1.dir/
+  TARGET_PDB = Assignments/assign_1.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target assign_1
+
+
+#############################################
+# Link the executable Assignments/assign_1
+
+build Assignments/assign_1: CXX_EXECUTABLE_LINKER__assign_1_Debug Assignments/CMakeFiles/assign_1.dir/01.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = Assignments/CMakeFiles/assign_1.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_COMPILE_PDB = Assignments/CMakeFiles/assign_1.dir/
+  TARGET_FILE = Assignments/assign_1
+  TARGET_PDB = Assignments/assign_1.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target assign_2
+
+
+#############################################
+# Order-only phony target for assign_2
+
+build cmake_object_order_depends_target_assign_2: phony || Assignments/CMakeFiles/assign_2.dir
+
+build Assignments/CMakeFiles/assign_2.dir/02.cpp.o: CXX_COMPILER__assign_2_Debug /mnt/c/Users/theGr/Projects/The_Cplusplus_Masterclass_From_Fundamentals_to_Advance/Assignments/02.cpp || cmake_object_order_depends_target_assign_2
+  DEP_FILE = Assignments/CMakeFiles/assign_2.dir/02.cpp.o.d
+  FLAGS = -g -std=c++20
+  OBJECT_DIR = Assignments/CMakeFiles/assign_2.dir
+  OBJECT_FILE_DIR = Assignments/CMakeFiles/assign_2.dir
+  TARGET_COMPILE_PDB = Assignments/CMakeFiles/assign_2.dir/
+  TARGET_PDB = Assignments/assign_2.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target assign_2
+
+
+#############################################
+# Link the executable Assignments/assign_2
+
+build Assignments/assign_2: CXX_EXECUTABLE_LINKER__assign_2_Debug Assignments/CMakeFiles/assign_2.dir/02.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = Assignments/CMakeFiles/assign_2.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_COMPILE_PDB = Assignments/CMakeFiles/assign_2.dir/
+  TARGET_FILE = Assignments/assign_2
+  TARGET_PDB = Assignments/assign_2.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target assign_3
+
+
+#############################################
+# Order-only phony target for assign_3
+
+build cmake_object_order_depends_target_assign_3: phony || Assignments/CMakeFiles/assign_3.dir
+
+build Assignments/CMakeFiles/assign_3.dir/03.cpp.o: CXX_COMPILER__assign_3_Debug /mnt/c/Users/theGr/Projects/The_Cplusplus_Masterclass_From_Fundamentals_to_Advance/Assignments/03.cpp || cmake_object_order_depends_target_assign_3
+  DEP_FILE = Assignments/CMakeFiles/assign_3.dir/03.cpp.o.d
+  FLAGS = -g -std=c++20
+  OBJECT_DIR = Assignments/CMakeFiles/assign_3.dir
+  OBJECT_FILE_DIR = Assignments/CMakeFiles/assign_3.dir
+  TARGET_COMPILE_PDB = Assignments/CMakeFiles/assign_3.dir/
+  TARGET_PDB = Assignments/assign_3.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target assign_3
+
+
+#############################################
+# Link the executable Assignments/assign_3
+
+build Assignments/assign_3: CXX_EXECUTABLE_LINKER__assign_3_Debug Assignments/CMakeFiles/assign_3.dir/03.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = Assignments/CMakeFiles/assign_3.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_COMPILE_PDB = Assignments/CMakeFiles/assign_3.dir/
+  TARGET_FILE = Assignments/assign_3
+  TARGET_PDB = Assignments/assign_3.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target assign_4
+
+
+#############################################
+# Order-only phony target for assign_4
+
+build cmake_object_order_depends_target_assign_4: phony || Assignments/CMakeFiles/assign_4.dir
+
+build Assignments/CMakeFiles/assign_4.dir/04.cpp.o: CXX_COMPILER__assign_4_Debug /mnt/c/Users/theGr/Projects/The_Cplusplus_Masterclass_From_Fundamentals_to_Advance/Assignments/04.cpp || cmake_object_order_depends_target_assign_4
+  DEP_FILE = Assignments/CMakeFiles/assign_4.dir/04.cpp.o.d
+  FLAGS = -g -std=c++20
+  OBJECT_DIR = Assignments/CMakeFiles/assign_4.dir
+  OBJECT_FILE_DIR = Assignments/CMakeFiles/assign_4.dir
+  TARGET_COMPILE_PDB = Assignments/CMakeFiles/assign_4.dir/
+  TARGET_PDB = Assignments/assign_4.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target assign_4
+
+
+#############################################
+# Link the executable Assignments/assign_4
+
+build Assignments/assign_4: CXX_EXECUTABLE_LINKER__assign_4_Debug Assignments/CMakeFiles/assign_4.dir/04.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = Assignments/CMakeFiles/assign_4.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_COMPILE_PDB = Assignments/CMakeFiles/assign_4.dir/
+  TARGET_FILE = Assignments/assign_4
+  TARGET_PDB = Assignments/assign_4.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target assign_5
+
+
+#############################################
+# Order-only phony target for assign_5
+
+build cmake_object_order_depends_target_assign_5: phony || Assignments/CMakeFiles/assign_5.dir
+
+build Assignments/CMakeFiles/assign_5.dir/05.cpp.o: CXX_COMPILER__assign_5_Debug /mnt/c/Users/theGr/Projects/The_Cplusplus_Masterclass_From_Fundamentals_to_Advance/Assignments/05.cpp || cmake_object_order_depends_target_assign_5
+  DEP_FILE = Assignments/CMakeFiles/assign_5.dir/05.cpp.o.d
+  FLAGS = -g -std=c++20
+  OBJECT_DIR = Assignments/CMakeFiles/assign_5.dir
+  OBJECT_FILE_DIR = Assignments/CMakeFiles/assign_5.dir
+  TARGET_COMPILE_PDB = Assignments/CMakeFiles/assign_5.dir/
+  TARGET_PDB = Assignments/assign_5.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target assign_5
+
+
+#############################################
+# Link the executable Assignments/assign_5
+
+build Assignments/assign_5: CXX_EXECUTABLE_LINKER__assign_5_Debug Assignments/CMakeFiles/assign_5.dir/05.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = Assignments/CMakeFiles/assign_5.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_COMPILE_PDB = Assignments/CMakeFiles/assign_5.dir/
+  TARGET_FILE = Assignments/assign_5
+  TARGET_PDB = Assignments/assign_5.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target assign_6
+
+
+#############################################
+# Order-only phony target for assign_6
+
+build cmake_object_order_depends_target_assign_6: phony || Assignments/CMakeFiles/assign_6.dir
+
+build Assignments/CMakeFiles/assign_6.dir/06.cpp.o: CXX_COMPILER__assign_6_Debug /mnt/c/Users/theGr/Projects/The_Cplusplus_Masterclass_From_Fundamentals_to_Advance/Assignments/06.cpp || cmake_object_order_depends_target_assign_6
+  DEP_FILE = Assignments/CMakeFiles/assign_6.dir/06.cpp.o.d
+  FLAGS = -g -std=c++20
+  OBJECT_DIR = Assignments/CMakeFiles/assign_6.dir
+  OBJECT_FILE_DIR = Assignments/CMakeFiles/assign_6.dir
+  TARGET_COMPILE_PDB = Assignments/CMakeFiles/assign_6.dir/
+  TARGET_PDB = Assignments/assign_6.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target assign_6
+
+
+#############################################
+# Link the executable Assignments/assign_6
+
+build Assignments/assign_6: CXX_EXECUTABLE_LINKER__assign_6_Debug Assignments/CMakeFiles/assign_6.dir/06.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = Assignments/CMakeFiles/assign_6.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_COMPILE_PDB = Assignments/CMakeFiles/assign_6.dir/
+  TARGET_FILE = Assignments/assign_6
+  TARGET_PDB = Assignments/assign_6.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target assign_7
+
+
+#############################################
+# Order-only phony target for assign_7
+
+build cmake_object_order_depends_target_assign_7: phony || Assignments/CMakeFiles/assign_7.dir
+
+build Assignments/CMakeFiles/assign_7.dir/07.cpp.o: CXX_COMPILER__assign_7_Debug /mnt/c/Users/theGr/Projects/The_Cplusplus_Masterclass_From_Fundamentals_to_Advance/Assignments/07.cpp || cmake_object_order_depends_target_assign_7
+  DEP_FILE = Assignments/CMakeFiles/assign_7.dir/07.cpp.o.d
+  FLAGS = -g -std=c++20
+  OBJECT_DIR = Assignments/CMakeFiles/assign_7.dir
+  OBJECT_FILE_DIR = Assignments/CMakeFiles/assign_7.dir
+  TARGET_COMPILE_PDB = Assignments/CMakeFiles/assign_7.dir/
+  TARGET_PDB = Assignments/assign_7.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target assign_7
+
+
+#############################################
+# Link the executable Assignments/assign_7
+
+build Assignments/assign_7: CXX_EXECUTABLE_LINKER__assign_7_Debug Assignments/CMakeFiles/assign_7.dir/07.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = Assignments/CMakeFiles/assign_7.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_COMPILE_PDB = Assignments/CMakeFiles/assign_7.dir/
+  TARGET_FILE = Assignments/assign_7
+  TARGET_PDB = Assignments/assign_7.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target assign_8
+
+
+#############################################
+# Order-only phony target for assign_8
+
+build cmake_object_order_depends_target_assign_8: phony || Assignments/CMakeFiles/assign_8.dir
+
+build Assignments/CMakeFiles/assign_8.dir/08.cpp.o: CXX_COMPILER__assign_8_Debug /mnt/c/Users/theGr/Projects/The_Cplusplus_Masterclass_From_Fundamentals_to_Advance/Assignments/08.cpp || cmake_object_order_depends_target_assign_8
+  DEP_FILE = Assignments/CMakeFiles/assign_8.dir/08.cpp.o.d
+  FLAGS = -g -std=c++20
+  OBJECT_DIR = Assignments/CMakeFiles/assign_8.dir
+  OBJECT_FILE_DIR = Assignments/CMakeFiles/assign_8.dir
+  TARGET_COMPILE_PDB = Assignments/CMakeFiles/assign_8.dir/
+  TARGET_PDB = Assignments/assign_8.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target assign_8
+
+
+#############################################
+# Link the executable Assignments/assign_8
+
+build Assignments/assign_8: CXX_EXECUTABLE_LINKER__assign_8_Debug Assignments/CMakeFiles/assign_8.dir/08.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = Assignments/CMakeFiles/assign_8.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_COMPILE_PDB = Assignments/CMakeFiles/assign_8.dir/
+  TARGET_FILE = Assignments/assign_8
+  TARGET_PDB = Assignments/assign_8.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target assign_9
+
+
+#############################################
+# Order-only phony target for assign_9
+
+build cmake_object_order_depends_target_assign_9: phony || Assignments/CMakeFiles/assign_9.dir
+
+build Assignments/CMakeFiles/assign_9.dir/09.cpp.o: CXX_COMPILER__assign_9_Debug /mnt/c/Users/theGr/Projects/The_Cplusplus_Masterclass_From_Fundamentals_to_Advance/Assignments/09.cpp || cmake_object_order_depends_target_assign_9
+  DEP_FILE = Assignments/CMakeFiles/assign_9.dir/09.cpp.o.d
+  FLAGS = -g -std=c++20
+  OBJECT_DIR = Assignments/CMakeFiles/assign_9.dir
+  OBJECT_FILE_DIR = Assignments/CMakeFiles/assign_9.dir
+  TARGET_COMPILE_PDB = Assignments/CMakeFiles/assign_9.dir/
+  TARGET_PDB = Assignments/assign_9.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target assign_9
+
+
+#############################################
+# Link the executable Assignments/assign_9
+
+build Assignments/assign_9: CXX_EXECUTABLE_LINKER__assign_9_Debug Assignments/CMakeFiles/assign_9.dir/09.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = Assignments/CMakeFiles/assign_9.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_COMPILE_PDB = Assignments/CMakeFiles/assign_9.dir/
+  TARGET_FILE = Assignments/assign_9
+  TARGET_PDB = Assignments/assign_9.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target assign_10
+
+
+#############################################
+# Order-only phony target for assign_10
+
+build cmake_object_order_depends_target_assign_10: phony || Assignments/CMakeFiles/assign_10.dir
+
+build Assignments/CMakeFiles/assign_10.dir/10.cpp.o: CXX_COMPILER__assign_10_Debug /mnt/c/Users/theGr/Projects/The_Cplusplus_Masterclass_From_Fundamentals_to_Advance/Assignments/10.cpp || cmake_object_order_depends_target_assign_10
+  DEP_FILE = Assignments/CMakeFiles/assign_10.dir/10.cpp.o.d
+  FLAGS = -g -std=c++20
+  OBJECT_DIR = Assignments/CMakeFiles/assign_10.dir
+  OBJECT_FILE_DIR = Assignments/CMakeFiles/assign_10.dir
+  TARGET_COMPILE_PDB = Assignments/CMakeFiles/assign_10.dir/
+  TARGET_PDB = Assignments/assign_10.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target assign_10
+
+
+#############################################
+# Link the executable Assignments/assign_10
+
+build Assignments/assign_10: CXX_EXECUTABLE_LINKER__assign_10_Debug Assignments/CMakeFiles/assign_10.dir/10.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = Assignments/CMakeFiles/assign_10.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_COMPILE_PDB = Assignments/CMakeFiles/assign_10.dir/
+  TARGET_FILE = Assignments/assign_10
+  TARGET_PDB = Assignments/assign_10.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target delete
+
+
+#############################################
+# Order-only phony target for delete
+
+build cmake_object_order_depends_target_delete: phony || Assignments/CMakeFiles/delete.dir
+
+build Assignments/CMakeFiles/delete.dir/delete.cpp.o: CXX_COMPILER__delete_Debug /mnt/c/Users/theGr/Projects/The_Cplusplus_Masterclass_From_Fundamentals_to_Advance/Assignments/delete.cpp || cmake_object_order_depends_target_delete
+  DEP_FILE = Assignments/CMakeFiles/delete.dir/delete.cpp.o.d
+  FLAGS = -g -std=c++20
+  OBJECT_DIR = Assignments/CMakeFiles/delete.dir
+  OBJECT_FILE_DIR = Assignments/CMakeFiles/delete.dir
+  TARGET_COMPILE_PDB = Assignments/CMakeFiles/delete.dir/
+  TARGET_PDB = Assignments/delete.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target delete
+
+
+#############################################
+# Link the executable Assignments/delete
+
+build Assignments/delete: CXX_EXECUTABLE_LINKER__delete_Debug Assignments/CMakeFiles/delete.dir/delete.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = Assignments/CMakeFiles/delete.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_COMPILE_PDB = Assignments/CMakeFiles/delete.dir/
+  TARGET_FILE = Assignments/delete
+  TARGET_PDB = Assignments/delete.pdb
+
+
+#############################################
+# Utility command for edit_cache
+
+build Assignments/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
+  COMMAND = cd /mnt/c/Users/theGr/Projects/The_Cplusplus_Masterclass_From_Fundamentals_to_Advance/build/Assignments && /usr/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build Assignments/edit_cache: phony Assignments/CMakeFiles/edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build Assignments/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = cd /mnt/c/Users/theGr/Projects/The_Cplusplus_Masterclass_From_Fundamentals_to_Advance/build/Assignments && /usr/bin/cmake --regenerate-during-build -S/mnt/c/Users/theGr/Projects/The_Cplusplus_Masterclass_From_Fundamentals_to_Advance -B/mnt/c/Users/theGr/Projects/The_Cplusplus_Masterclass_From_Fundamentals_to_Advance/build
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build Assignments/rebuild_cache: phony Assignments/CMakeFiles/rebuild_cache.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# /mnt/c/Users/theGr/Projects/The_Cplusplus_Masterclass_From_Fundamentals_to_Advance/CMakeLists.txt
+# =============================================================================
+
+# =============================================================================
 # Object build statements for EXECUTABLE target main
 
 
@@ -82,6 +484,8 @@ build Section_03_Environment_Setup/CMakeFiles/main.dir/main.cpp.o: CXX_COMPILER_
   FLAGS = -g -std=c++20
   OBJECT_DIR = Section_03_Environment_Setup/CMakeFiles/main.dir
   OBJECT_FILE_DIR = Section_03_Environment_Setup/CMakeFiles/main.dir
+  TARGET_COMPILE_PDB = Section_03_Environment_Setup/CMakeFiles/main.dir/
+  TARGET_PDB = Section_03_Environment_Setup/main.pdb
 
 
 # =============================================================================
@@ -96,8 +500,9 @@ build Section_03_Environment_Setup/main: CXX_EXECUTABLE_LINKER__main_Debug Secti
   OBJECT_DIR = Section_03_Environment_Setup/CMakeFiles/main.dir
   POST_BUILD = :
   PRE_LINK = :
+  TARGET_COMPILE_PDB = Section_03_Environment_Setup/CMakeFiles/main.dir/
   TARGET_FILE = Section_03_Environment_Setup/main
-  TARGET_PDB = main.dbg
+  TARGET_PDB = Section_03_Environment_Setup/main.pdb
 
 
 #############################################
@@ -123,68 +528,29 @@ build Section_03_Environment_Setup/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
 build Section_03_Environment_Setup/rebuild_cache: phony Section_03_Environment_Setup/CMakeFiles/rebuild_cache.util
 
 # =============================================================================
-# Write statements declared in CMakeLists.txt:
-# /mnt/c/Users/theGr/Projects/The_Cplusplus_Masterclass_From_Fundamentals_to_Advance/CMakeLists.txt
-# =============================================================================
-
-# =============================================================================
-# Object build statements for EXECUTABLE target FirstCppProgram
-
-
-#############################################
-# Order-only phony target for FirstCppProgram
-
-build cmake_object_order_depends_target_FirstCppProgram: phony || Section_07_Diving_In/CMakeFiles/FirstCppProgram.dir
-
-build Section_07_Diving_In/CMakeFiles/FirstCppProgram.dir/FirstCppProgram.cpp.o: CXX_COMPILER__FirstCppProgram_Debug /mnt/c/Users/theGr/Projects/The_Cplusplus_Masterclass_From_Fundamentals_to_Advance/Section_07_Diving_In/FirstCppProgram.cpp || cmake_object_order_depends_target_FirstCppProgram
-  DEP_FILE = Section_07_Diving_In/CMakeFiles/FirstCppProgram.dir/FirstCppProgram.cpp.o.d
-  FLAGS = -g -std=c++20
-  OBJECT_DIR = Section_07_Diving_In/CMakeFiles/FirstCppProgram.dir
-  OBJECT_FILE_DIR = Section_07_Diving_In/CMakeFiles/FirstCppProgram.dir
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target FirstCppProgram
-
-
-#############################################
-# Link the executable Section_07_Diving_In/FirstCppProgram
-
-build Section_07_Diving_In/FirstCppProgram: CXX_EXECUTABLE_LINKER__FirstCppProgram_Debug Section_07_Diving_In/CMakeFiles/FirstCppProgram.dir/FirstCppProgram.cpp.o
-  FLAGS = -g
-  OBJECT_DIR = Section_07_Diving_In/CMakeFiles/FirstCppProgram.dir
-  POST_BUILD = :
-  PRE_LINK = :
-  TARGET_FILE = Section_07_Diving_In/FirstCppProgram
-  TARGET_PDB = FirstCppProgram.dbg
-
-
-#############################################
-# Utility command for edit_cache
-
-build Section_07_Diving_In/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /mnt/c/Users/theGr/Projects/The_Cplusplus_Masterclass_From_Fundamentals_to_Advance/build/Section_07_Diving_In && /usr/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
-  DESC = No interactive CMake dialog available...
-  restat = 1
-
-build Section_07_Diving_In/edit_cache: phony Section_07_Diving_In/CMakeFiles/edit_cache.util
-
-
-#############################################
-# Utility command for rebuild_cache
-
-build Section_07_Diving_In/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /mnt/c/Users/theGr/Projects/The_Cplusplus_Masterclass_From_Fundamentals_to_Advance/build/Section_07_Diving_In && /usr/bin/cmake --regenerate-during-build -S/mnt/c/Users/theGr/Projects/The_Cplusplus_Masterclass_From_Fundamentals_to_Advance -B/mnt/c/Users/theGr/Projects/The_Cplusplus_Masterclass_From_Fundamentals_to_Advance/build
-  DESC = Running CMake to regenerate build system...
-  pool = console
-  restat = 1
-
-build Section_07_Diving_In/rebuild_cache: phony Section_07_Diving_In/CMakeFiles/rebuild_cache.util
-
-# =============================================================================
 # Target aliases.
 
-build FirstCppProgram: phony Section_07_Diving_In/FirstCppProgram
+build assign_1: phony Assignments/assign_1
+
+build assign_10: phony Assignments/assign_10
+
+build assign_2: phony Assignments/assign_2
+
+build assign_3: phony Assignments/assign_3
+
+build assign_4: phony Assignments/assign_4
+
+build assign_5: phony Assignments/assign_5
+
+build assign_6: phony Assignments/assign_6
+
+build assign_7: phony Assignments/assign_7
+
+build assign_8: phony Assignments/assign_8
+
+build assign_9: phony Assignments/assign_9
+
+build delete: phony Assignments/delete
 
 build main: phony Section_03_Environment_Setup/main
 
@@ -196,7 +562,14 @@ build main: phony Section_03_Environment_Setup/main
 #############################################
 # Folder: /mnt/c/Users/theGr/Projects/The_Cplusplus_Masterclass_From_Fundamentals_to_Advance/build
 
-build all: phony Section_03_Environment_Setup/all Section_07_Diving_In/all
+build all: phony Assignments/all Section_03_Environment_Setup/all
+
+# =============================================================================
+
+#############################################
+# Folder: /mnt/c/Users/theGr/Projects/The_Cplusplus_Masterclass_From_Fundamentals_to_Advance/build/Assignments
+
+build Assignments/all: phony Assignments/assign_1 Assignments/assign_2 Assignments/assign_3 Assignments/assign_4 Assignments/assign_5 Assignments/assign_6 Assignments/assign_7 Assignments/assign_8 Assignments/assign_9 Assignments/assign_10 Assignments/delete
 
 # =============================================================================
 
@@ -206,27 +579,20 @@ build all: phony Section_03_Environment_Setup/all Section_07_Diving_In/all
 build Section_03_Environment_Setup/all: phony Section_03_Environment_Setup/main
 
 # =============================================================================
-
-#############################################
-# Folder: /mnt/c/Users/theGr/Projects/The_Cplusplus_Masterclass_From_Fundamentals_to_Advance/build/Section_07_Diving_In
-
-build Section_07_Diving_In/all: phony Section_07_Diving_In/FirstCppProgram
-
-# =============================================================================
 # Built-in targets
 
 
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | ../CMakeLists.txt ../Section_03_Environment_Setup/CMakeLists.txt ../Section_07_Diving_In/CMakeLists.txt /usr/share/cmake-3.22/Modules/CMakeCInformation.cmake /usr/share/cmake-3.22/Modules/CMakeCXXInformation.cmake /usr/share/cmake-3.22/Modules/CMakeCommonLanguageInclude.cmake /usr/share/cmake-3.22/Modules/CMakeGenericSystem.cmake /usr/share/cmake-3.22/Modules/CMakeInitializeConfigs.cmake /usr/share/cmake-3.22/Modules/CMakeLanguageInformation.cmake /usr/share/cmake-3.22/Modules/CMakeSystemSpecificInformation.cmake /usr/share/cmake-3.22/Modules/CMakeSystemSpecificInitialize.cmake /usr/share/cmake-3.22/Modules/Compiler/CMakeCommonCompilerMacros.cmake /usr/share/cmake-3.22/Modules/Compiler/GNU-C.cmake /usr/share/cmake-3.22/Modules/Compiler/GNU-CXX.cmake /usr/share/cmake-3.22/Modules/Compiler/GNU.cmake /usr/share/cmake-3.22/Modules/Platform/Linux-GNU-C.cmake /usr/share/cmake-3.22/Modules/Platform/Linux-GNU-CXX.cmake /usr/share/cmake-3.22/Modules/Platform/Linux-GNU.cmake /usr/share/cmake-3.22/Modules/Platform/Linux.cmake /usr/share/cmake-3.22/Modules/Platform/UnixPaths.cmake CMakeCache.txt CMakeFiles/3.22.1/CMakeCCompiler.cmake CMakeFiles/3.22.1/CMakeCXXCompiler.cmake CMakeFiles/3.22.1/CMakeSystem.cmake
+build build.ninja: RERUN_CMAKE | ../Assignments/CMakeLists.txt ../CMakeLists.txt ../Section_03_Environment_Setup/CMakeLists.txt /usr/share/cmake-3.22/Modules/CMakeCCompiler.cmake.in /usr/share/cmake-3.22/Modules/CMakeCCompilerABI.c /usr/share/cmake-3.22/Modules/CMakeCInformation.cmake /usr/share/cmake-3.22/Modules/CMakeCXXCompiler.cmake.in /usr/share/cmake-3.22/Modules/CMakeCXXCompilerABI.cpp /usr/share/cmake-3.22/Modules/CMakeCXXInformation.cmake /usr/share/cmake-3.22/Modules/CMakeCommonLanguageInclude.cmake /usr/share/cmake-3.22/Modules/CMakeCompilerIdDetection.cmake /usr/share/cmake-3.22/Modules/CMakeDetermineCCompiler.cmake /usr/share/cmake-3.22/Modules/CMakeDetermineCXXCompiler.cmake /usr/share/cmake-3.22/Modules/CMakeDetermineCompileFeatures.cmake /usr/share/cmake-3.22/Modules/CMakeDetermineCompiler.cmake /usr/share/cmake-3.22/Modules/CMakeDetermineCompilerABI.cmake /usr/share/cmake-3.22/Modules/CMakeDetermineCompilerId.cmake /usr/share/cmake-3.22/Modules/CMakeDetermineSystem.cmake /usr/share/cmake-3.22/Modules/CMakeFindBinUtils.cmake /usr/share/cmake-3.22/Modules/CMakeGenericSystem.cmake /usr/share/cmake-3.22/Modules/CMakeInitializeConfigs.cmake /usr/share/cmake-3.22/Modules/CMakeLanguageInformation.cmake /usr/share/cmake-3.22/Modules/CMakeNinjaFindMake.cmake /usr/share/cmake-3.22/Modules/CMakeParseImplicitIncludeInfo.cmake /usr/share/cmake-3.22/Modules/CMakeParseImplicitLinkInfo.cmake /usr/share/cmake-3.22/Modules/CMakeParseLibraryArchitecture.cmake /usr/share/cmake-3.22/Modules/CMakeSystem.cmake.in /usr/share/cmake-3.22/Modules/CMakeSystemSpecificInformation.cmake /usr/share/cmake-3.22/Modules/CMakeSystemSpecificInitialize.cmake /usr/share/cmake-3.22/Modules/CMakeTestCCompiler.cmake /usr/share/cmake-3.22/Modules/CMakeTestCXXCompiler.cmake /usr/share/cmake-3.22/Modules/CMakeTestCompilerCommon.cmake /usr/share/cmake-3.22/Modules/Compiler/ADSP-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/ARMCC-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/ARMClang-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/AppleClang-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/Borland-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/Bruce-C-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/CMakeCommonCompilerMacros.cmake /usr/share/cmake-3.22/Modules/Compiler/Clang-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/Clang-DetermineCompilerInternal.cmake /usr/share/cmake-3.22/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/Compaq-C-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/Cray-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/Embarcadero-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/Fujitsu-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/GHS-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/GNU-C-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/GNU-C.cmake /usr/share/cmake-3.22/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/GNU-CXX.cmake /usr/share/cmake-3.22/Modules/Compiler/GNU-FindBinUtils.cmake /usr/share/cmake-3.22/Modules/Compiler/GNU.cmake /usr/share/cmake-3.22/Modules/Compiler/HP-C-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/HP-CXX-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/IAR-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake /usr/share/cmake-3.22/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake /usr/share/cmake-3.22/Modules/Compiler/Intel-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/MSVC-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/NVHPC-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/NVIDIA-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/PGI-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/PathScale-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/SCO-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/SDCC-C-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/SunPro-C-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/TI-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/Watcom-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/XL-C-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/XL-CXX-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/XLClang-C-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/zOS-C-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Internal/FeatureTesting.cmake /usr/share/cmake-3.22/Modules/Platform/Linux-Determine-CXX.cmake /usr/share/cmake-3.22/Modules/Platform/Linux-GNU-C.cmake /usr/share/cmake-3.22/Modules/Platform/Linux-GNU-CXX.cmake /usr/share/cmake-3.22/Modules/Platform/Linux-GNU.cmake /usr/share/cmake-3.22/Modules/Platform/Linux.cmake /usr/share/cmake-3.22/Modules/Platform/UnixPaths.cmake CMakeCache.txt CMakeFiles/3.22.1/CMakeCCompiler.cmake CMakeFiles/3.22.1/CMakeCXXCompiler.cmake CMakeFiles/3.22.1/CMakeSystem.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build ../CMakeLists.txt ../Section_03_Environment_Setup/CMakeLists.txt ../Section_07_Diving_In/CMakeLists.txt /usr/share/cmake-3.22/Modules/CMakeCInformation.cmake /usr/share/cmake-3.22/Modules/CMakeCXXInformation.cmake /usr/share/cmake-3.22/Modules/CMakeCommonLanguageInclude.cmake /usr/share/cmake-3.22/Modules/CMakeGenericSystem.cmake /usr/share/cmake-3.22/Modules/CMakeInitializeConfigs.cmake /usr/share/cmake-3.22/Modules/CMakeLanguageInformation.cmake /usr/share/cmake-3.22/Modules/CMakeSystemSpecificInformation.cmake /usr/share/cmake-3.22/Modules/CMakeSystemSpecificInitialize.cmake /usr/share/cmake-3.22/Modules/Compiler/CMakeCommonCompilerMacros.cmake /usr/share/cmake-3.22/Modules/Compiler/GNU-C.cmake /usr/share/cmake-3.22/Modules/Compiler/GNU-CXX.cmake /usr/share/cmake-3.22/Modules/Compiler/GNU.cmake /usr/share/cmake-3.22/Modules/Platform/Linux-GNU-C.cmake /usr/share/cmake-3.22/Modules/Platform/Linux-GNU-CXX.cmake /usr/share/cmake-3.22/Modules/Platform/Linux-GNU.cmake /usr/share/cmake-3.22/Modules/Platform/Linux.cmake /usr/share/cmake-3.22/Modules/Platform/UnixPaths.cmake CMakeCache.txt CMakeFiles/3.22.1/CMakeCCompiler.cmake CMakeFiles/3.22.1/CMakeCXXCompiler.cmake CMakeFiles/3.22.1/CMakeSystem.cmake: phony
+build ../Assignments/CMakeLists.txt ../CMakeLists.txt ../Section_03_Environment_Setup/CMakeLists.txt /usr/share/cmake-3.22/Modules/CMakeCCompiler.cmake.in /usr/share/cmake-3.22/Modules/CMakeCCompilerABI.c /usr/share/cmake-3.22/Modules/CMakeCInformation.cmake /usr/share/cmake-3.22/Modules/CMakeCXXCompiler.cmake.in /usr/share/cmake-3.22/Modules/CMakeCXXCompilerABI.cpp /usr/share/cmake-3.22/Modules/CMakeCXXInformation.cmake /usr/share/cmake-3.22/Modules/CMakeCommonLanguageInclude.cmake /usr/share/cmake-3.22/Modules/CMakeCompilerIdDetection.cmake /usr/share/cmake-3.22/Modules/CMakeDetermineCCompiler.cmake /usr/share/cmake-3.22/Modules/CMakeDetermineCXXCompiler.cmake /usr/share/cmake-3.22/Modules/CMakeDetermineCompileFeatures.cmake /usr/share/cmake-3.22/Modules/CMakeDetermineCompiler.cmake /usr/share/cmake-3.22/Modules/CMakeDetermineCompilerABI.cmake /usr/share/cmake-3.22/Modules/CMakeDetermineCompilerId.cmake /usr/share/cmake-3.22/Modules/CMakeDetermineSystem.cmake /usr/share/cmake-3.22/Modules/CMakeFindBinUtils.cmake /usr/share/cmake-3.22/Modules/CMakeGenericSystem.cmake /usr/share/cmake-3.22/Modules/CMakeInitializeConfigs.cmake /usr/share/cmake-3.22/Modules/CMakeLanguageInformation.cmake /usr/share/cmake-3.22/Modules/CMakeNinjaFindMake.cmake /usr/share/cmake-3.22/Modules/CMakeParseImplicitIncludeInfo.cmake /usr/share/cmake-3.22/Modules/CMakeParseImplicitLinkInfo.cmake /usr/share/cmake-3.22/Modules/CMakeParseLibraryArchitecture.cmake /usr/share/cmake-3.22/Modules/CMakeSystem.cmake.in /usr/share/cmake-3.22/Modules/CMakeSystemSpecificInformation.cmake /usr/share/cmake-3.22/Modules/CMakeSystemSpecificInitialize.cmake /usr/share/cmake-3.22/Modules/CMakeTestCCompiler.cmake /usr/share/cmake-3.22/Modules/CMakeTestCXXCompiler.cmake /usr/share/cmake-3.22/Modules/CMakeTestCompilerCommon.cmake /usr/share/cmake-3.22/Modules/Compiler/ADSP-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/ARMCC-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/ARMClang-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/AppleClang-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/Borland-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/Bruce-C-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/CMakeCommonCompilerMacros.cmake /usr/share/cmake-3.22/Modules/Compiler/Clang-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/Clang-DetermineCompilerInternal.cmake /usr/share/cmake-3.22/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/Compaq-C-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/Cray-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/Embarcadero-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/Fujitsu-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/GHS-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/GNU-C-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/GNU-C.cmake /usr/share/cmake-3.22/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/GNU-CXX.cmake /usr/share/cmake-3.22/Modules/Compiler/GNU-FindBinUtils.cmake /usr/share/cmake-3.22/Modules/Compiler/GNU.cmake /usr/share/cmake-3.22/Modules/Compiler/HP-C-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/HP-CXX-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/IAR-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake /usr/share/cmake-3.22/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake /usr/share/cmake-3.22/Modules/Compiler/Intel-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/MSVC-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/NVHPC-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/NVIDIA-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/PGI-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/PathScale-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/SCO-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/SDCC-C-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/SunPro-C-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/TI-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/Watcom-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/XL-C-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/XL-CXX-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/XLClang-C-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/zOS-C-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake /usr/share/cmake-3.22/Modules/Internal/FeatureTesting.cmake /usr/share/cmake-3.22/Modules/Platform/Linux-Determine-CXX.cmake /usr/share/cmake-3.22/Modules/Platform/Linux-GNU-C.cmake /usr/share/cmake-3.22/Modules/Platform/Linux-GNU-CXX.cmake /usr/share/cmake-3.22/Modules/Platform/Linux-GNU.cmake /usr/share/cmake-3.22/Modules/Platform/Linux.cmake /usr/share/cmake-3.22/Modules/Platform/UnixPaths.cmake CMakeCache.txt CMakeFiles/3.22.1/CMakeCCompiler.cmake CMakeFiles/3.22.1/CMakeCXXCompiler.cmake CMakeFiles/3.22.1/CMakeSystem.cmake: phony
 
 
 #############################################

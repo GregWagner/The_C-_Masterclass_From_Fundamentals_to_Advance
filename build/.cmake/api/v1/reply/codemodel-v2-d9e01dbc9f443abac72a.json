@@ -1,0 +1,191 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "Assignments",
+					"jsonFile" : "directory-Assignments-Debug-6718e1ea8f75e96ad4c2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Assignments",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				},
+				{
+					"build" : "Section_03_Environment_Setup",
+					"jsonFile" : "directory-Section_03_Environment_Setup-Debug-1e9e6674309c97cd12af.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Section_03_Environment_Setup",
+					"targetIndexes" : 
+					[
+						11
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "CppProjectTemplate",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "assign_1::@600aaefce372b646229b",
+					"jsonFile" : "target-assign_1-Debug-5b32162c5a3499f4864f.json",
+					"name" : "assign_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "assign_10::@600aaefce372b646229b",
+					"jsonFile" : "target-assign_10-Debug-6ab580bb4ab4646a379e.json",
+					"name" : "assign_10",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "assign_2::@600aaefce372b646229b",
+					"jsonFile" : "target-assign_2-Debug-2146101794ff8cdd790a.json",
+					"name" : "assign_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "assign_3::@600aaefce372b646229b",
+					"jsonFile" : "target-assign_3-Debug-56bcc4dde190a36dfde6.json",
+					"name" : "assign_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "assign_4::@600aaefce372b646229b",
+					"jsonFile" : "target-assign_4-Debug-43f09f978c5db93ed22c.json",
+					"name" : "assign_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "assign_5::@600aaefce372b646229b",
+					"jsonFile" : "target-assign_5-Debug-7f4324d7a7df9bfc8fa4.json",
+					"name" : "assign_5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "assign_6::@600aaefce372b646229b",
+					"jsonFile" : "target-assign_6-Debug-b1bc3f877588debf955b.json",
+					"name" : "assign_6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "assign_7::@600aaefce372b646229b",
+					"jsonFile" : "target-assign_7-Debug-def2ae7ce7e754d0a833.json",
+					"name" : "assign_7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "assign_8::@600aaefce372b646229b",
+					"jsonFile" : "target-assign_8-Debug-d2dd3a939027083fffe4.json",
+					"name" : "assign_8",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "assign_9::@600aaefce372b646229b",
+					"jsonFile" : "target-assign_9-Debug-d6ed5620d9f50793a789.json",
+					"name" : "assign_9",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "delete::@600aaefce372b646229b",
+					"jsonFile" : "target-delete-Debug-d15a3c342954d631ddf4.json",
+					"name" : "delete",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "main::@1c5443ce5c45f4224b54",
+					"jsonFile" : "target-main-Debug-43b64874a8af94b0d01e.json",
+					"name" : "main",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/mnt/c/Users/theGr/Projects/The_Cplusplus_Masterclass_From_Fundamentals_to_Advance/build",
+		"source" : "/mnt/c/Users/theGr/Projects/The_Cplusplus_Masterclass_From_Fundamentals_to_Advance"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

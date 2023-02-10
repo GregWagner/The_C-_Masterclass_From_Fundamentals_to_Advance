@@ -1,9 +1,6 @@
 #include <iostream>
 
-consteval int get_value() {
-    return 3;
-}
-
 int main() {
-    std::cout << "Hello World!" << '\n';
+    std::cout << "Number 1\n";
+    std::cout << "Number 2\n";
 }

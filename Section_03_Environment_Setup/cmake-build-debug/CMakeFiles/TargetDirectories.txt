@@ -1,3 +1,0 @@
-C:/Users/theGr/Projects/The_Cplusplus_Masterclass_From_Fundamentals_to_Advance/Section_03_Environment_Setup/cmake-build-debug/CMakeFiles/main.dir
-C:/Users/theGr/Projects/The_Cplusplus_Masterclass_From_Fundamentals_to_Advance/Section_03_Environment_Setup/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/theGr/Projects/The_Cplusplus_Masterclass_From_Fundamentals_to_Advance/Section_03_Environment_Setup/cmake-build-debug/CMakeFiles/rebuild_cache.dir
